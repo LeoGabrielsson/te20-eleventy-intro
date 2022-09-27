@@ -1,8 +1,8 @@
 ---
+title: Yo Yo Ma
 layout: base.njk
-title: hsdfhiusdhfuisd
 ---
 # Hej
 Detta kallas Text
 
-[sneakers](/sneakers)
+[Sneakers](/sneakers)
